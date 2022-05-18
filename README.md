@@ -186,4 +186,4 @@ exit
 > **2: Press on Ctrl + D**
 > 
 ## TEAM
-Evelyn Ampadu and Michael Oppong
+Nicholas and Samuel
